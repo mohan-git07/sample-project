@@ -1,0 +1,4 @@
+Learning how we can move project from local to GitHub repository
+1.First we need to link that repository to where we have to move our project with GitBash
+  the steps are given in the github itself
+  
